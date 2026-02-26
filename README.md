@@ -75,3 +75,9 @@ How to parse JSON responses manually
 How to format structured console output
 
 Basic debugging and error handling in Java
+
+
+**OUTPUT**
+
+
+<img width="1912" height="1012" alt="Image" src="https://github.com/user-attachments/assets/8b934aba-f80d-424f-9272-e6160e0c2e7c" />
